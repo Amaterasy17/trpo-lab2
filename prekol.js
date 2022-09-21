@@ -1,3 +1,4 @@
 export const function prekol = () => {
-	return 'prekol';
+	const prekol = 'prekol';
+	return prekol;
 }
