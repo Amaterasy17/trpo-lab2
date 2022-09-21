@@ -1,4 +1,4 @@
-export const function prekol = () => {
-	const prekol = 'prekol';
-	return prekol;
+export const prekol = () => {
+	console.log('prekol');
+	return 'prekol';
 }
