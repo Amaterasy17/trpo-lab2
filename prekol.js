@@ -1,4 +1,5 @@
 export const function prekol = () => {
 	const prekol = 'prekol';
-	return prekol;
+	const day = 'день';
+	return `${prekol}-${day}`;
 }
